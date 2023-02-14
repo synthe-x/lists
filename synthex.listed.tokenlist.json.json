@@ -1,0 +1,56 @@
+{
+    "name": "Balancer",
+    "timestamp": "2023-02-13T00:00:00.000Z",
+    "logoURI": "https://raw.githubusercontent.com/balancer-labs/pebbles/master/images/pebbles-pad.256w.png",
+    "keywords": [
+        "balancer",
+        "listed"
+    ],
+    "version": {
+        "major": 1,
+        "minor": 17,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "address": "0x6d18cd3359C03e95c3626af546CAe7FFe14932cf",
+            "chainId": 421613,
+            "name": "Wrapped ETH",
+            "symbol": "wETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
+        },
+        {
+            "address": "0xff5a7b55eDdC4AaefF891f5eE72fee8643c70a5A",
+            "chainId": 421613,
+            "name": "Lido wstETH",
+            "symbol": "wstETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
+        },
+        {
+            "address": "0x0e0e87E24a5d4d90eE7F994490F59c0Ba32b0EE3",
+            "chainId": 421613,
+            "name": "SyntheX Ethereum CE",
+            "symbol": "ceETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
+        },
+        {
+            "address": "0xE21096E2A23658BbA1268bA19BD0763b5e19B79c",
+            "chainId": 421613,
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
+        },
+        {
+            "address": "0x1F442c4Dee9822369a57B22BD56455966dCeA802",
+            "chainId": 421613,
+            "name": "SyntheX USD Coin CE",
+            "symbol": "ceUSDC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
+        }
+    ]
+}
